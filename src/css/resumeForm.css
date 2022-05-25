@@ -1,0 +1,26 @@
+.addBTN {
+  width: 20%;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 5px;
+  text-align: center;
+}
+.box {
+  margin-bottom: 10px;
+}
+.background {
+  background-color: #55b7d4;
+}
+#cv-form {
+  display: block;
+}
+#cv-Template {
+  display: none;
+}
+@media screen and (max-width: 600px) {
+  .addBTN{
+    width: 30%;
+    text-align: center;
+  }
+  
+}

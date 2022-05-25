@@ -1,0 +1,11 @@
+.left {
+  margin-top: 70px;
+}
+.right {
+  margin-top: 10px;
+}
+#profile-imgT {
+  border-radius: 50%;
+  border: 5px solid #fff;
+  margin-left: 100px !important;
+}
